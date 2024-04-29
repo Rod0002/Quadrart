@@ -7,7 +7,7 @@ Este README fornece uma visão geral das funcionalidades do projeto Quadrart, de
 
 ## Tech Stack🔨
 
-!\[Spring Boot](path or URL to image)
+[!\[Spring Boot](path or URL to image)](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 ### Introdução
 
