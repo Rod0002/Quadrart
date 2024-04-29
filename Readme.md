@@ -25,6 +25,9 @@ O projeto foi testado com sucesso nos seguintes navegadores:
 
 O projeto Quadrart é uma aplicação que oferece funcionalidades relacionadas ao gerenciamento e exibição de quadros musicais inspirados em artistas. Utilizando tecnologias modernas, o projeto visa proporcionar uma experiência intuitiva e envolvente para os usuários.
 
+![Gif Base](https://github.com/Rod0002/Quadrart/blob/master/GifsReadme/QuadrartBase.gif)
+
+
 ### Tecnologias Utilizadas
 
 - **Backend:**
@@ -41,6 +44,9 @@ O projeto Quadrart possui as seguintes funcionalidades principais:
 
 - **Cadastro de Quadros:** Permite aos usuários criar, visualizar, atualizar e excluir quadros musicais baseados em artistas.
 - **Upload de Imagens:** Os usuários podem fazer upload de imagens para associá-las aos quadros criados.
+![Gif da Inserção de Quadros](https://github.com/Rod0002/Quadrart/blob/master/GifsReadme/UploadQuadro.gif)
+
+
 - **Autenticação de Usuários:** Oferece um sistema de autenticação seguro para os usuários acessarem as funcionalidades do sistema.
 
 ### Como usar o Projeto
