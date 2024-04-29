@@ -58,7 +58,8 @@ Antes de executar o projeto, certifique-se de ter as seguintes tecnologias insta
 1. Clone o repositório do projeto para o seu ambiente local.
 2. Navegue até o diretório do projeto.
 3. Instale as dependências necessárias para o Frontend e o Backend, se necessário.
-4. Inicie os servidores backend e frontend.
+4. No Back-end insira seu usuario e senha do MySQL no application.properties, além do caminho do Upload de imagens no StorageProperties.
+5. Inicie os servidores backend e frontend.
 
 #### Iniciando o Front-end
 
