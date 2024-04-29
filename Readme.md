@@ -14,7 +14,7 @@ Este README fornece uma visão geral das funcionalidades do projeto Quadrart, de
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-####O projeto foi testado com sucesso nos seguintes navegadores:
+O projeto foi testado com sucesso nos seguintes navegadores:
 
 ![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
