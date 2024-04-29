@@ -49,6 +49,10 @@ O projeto Quadrart possui as seguintes funcionalidades principais:
 
 - **Autenticação de Usuários:** Oferece um sistema de autenticação seguro para os usuários acessarem as funcionalidades do sistema.
 
+  Exemplo de Token retornado:
+![Token](https://github.com/Rod0002/Quadrart/blob/master/GifsReadme/vlc_2Zf7oKO56R.png)
+
+
 ### Como usar o Projeto
 
 Antes de executar o projeto, certifique-se de ter as seguintes tecnologias instaladas:
