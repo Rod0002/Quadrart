@@ -97,7 +97,7 @@ Ou pela IDE rode a classe QuadrartApplication.java
 </div>
 
 <div style="display: flex; align-items: center; border: 1px solid #ccc; padding: 10px; margin-bottom: 20px;">
-    <img src="https://www.linkedin.com/in/leonardo-guimar%C3%A3es-517510211/" width="100" height="100" style="margin-right: 20px;">
+    <img src="https://media.licdn.com/dms/image/D4D35AQFU9Fy0OBXVEw/profile-framedphoto-shrink_800_800/0/1713889271117?e=1715868000&v=beta&t=rXIFURTp5EbvBEVwAqtGLR0jJAAmehLNvzk58Tpzb5Y" width="100" height="100" style="margin-right: 20px;">
     <div>
         <h3>Leonardo Alves</h3>
         <p>Desenvolvedor Fullstack - Atuei majoritariamente no Front-End com uso de React, além de usar o projeto para aprender bastante sobre Java e Spring, além de fazer uma review completa do código no final.</p>
